@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>apcslibdev</label>
+	</settings>
+	<users>
+		<user>
+			<path>apcslibdev.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>apcslibdev.jcp</path>
+		</project>
+	</projects>
+</workspace>
